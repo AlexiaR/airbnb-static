@@ -12,14 +12,14 @@
 
 // Backgrounds
 .bg-text {
-  background: #4a4a4a;
+  background: $gray; /* #4a4a4a */
 }
 .bg-email {
-  background: #aeaeae;
+  background: $gray-lighter; /* #aeaeae */
 }
 .bg-twitter {
-  background: #00a3e1;
+  background: $light-blue; /* #00a3e1 */
 }
 .bg-facebook {
-  background: #3b5998;
+  background: $dark-blue; /* #3b5998 */
 }
